@@ -1,3 +1,1 @@
-"# VisaoComputacional" 
-"# VisaoComputacional" 
-"# VisaoComputacional" 
+VisaoComputacional
